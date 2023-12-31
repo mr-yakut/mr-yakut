@@ -1,5 +1,18 @@
 # 💫 About Me: 
-<img align="right" alt="Coding" width="450" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format"> Hello. I'm Muhammed Yakut. Interested in <br>the field of Web application development <br>and I'm working in this field. After graduating <br>from the bachelor's degree in computer <br>engineering, I was eligible for an internship <br>at BUT. I am currently studying for master's <br>degree in computer science at US. I try to use <br>current technologies in my studies by <br>closelyfollowing them. I'm open to learning, <br>determined, hardworking and capable of <br>adapting to teamwork.
+<img align="right" alt="Coding" width="450" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format"> Hello, I'm Muhammed Yakut, and my passion lies in
+software development, which I continue to pursue
+while advancing my education in the field. I
+recently completed my undergraduate studies in
+computer engineering following an Erasmus
+internship at BUT. Currently, I'm working towards
+a master's degree in computer science at UŚ,
+striving to incorporate the latest technologies into
+my work by closely following industry trends.
+Describing myself as someone who communicates
+effectively, enjoys taking on challenging tasks, and
+is a lifelong learner consistently seeking new
+knowledge, I am flexible and open to both remote
+and on-site work.
 
 
 ## 🌐 Socials:
